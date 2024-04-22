@@ -8,9 +8,6 @@ export class Footer extends React.Component {
 
     return (
       <div className="footer">
-        <img src={logo} className="footer-logo" alt="logo" />
-        <p><a href="https://github.com/MitulMistry/the-valley-react">Github repo for this site</a><br />
-        &copy; Mitul Mistry { currentYear }</p>
       </div>
     );
   }

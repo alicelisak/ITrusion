@@ -1,9 +1,9 @@
-# The Valley
+# ITrusion
 ![screenshot](readme_the_valley.jpg)
 
 ### A text adventure system using [React](https://github.com/facebook/react) and [Redux](https://github.com/reduxjs/react-redux).
 
-The Valley is a JavaScript based system for loading, playing, and managing non-linear text adventures. It allows for branching paths based on the player's choices and keeps track of progress and past decisions.
+ITrusion is a JavaScript based system for loading, playing, and managing non-linear text adventures. It allows for branching paths based on the player's choices and keeps track of progress and past decisions.
 
 ## Demo App
 You can see a demo version of this application deployed to [Fly.io](https://fly.io/) here: https://the-valley-react.fly.dev/
@@ -43,6 +43,10 @@ A story node consists of a uniquely identifiable key and text. Each story node h
 During the course of the narrative, there are times when the system checks for certain past decisions and does so through what's referred to as link nodes. Link nodes have checks for specific variables, or even combinations of variables (using operators like && or ||), and they can be checked against player data in the Redux store.
 
 All this gameplay processing is done in the [GameManager](../master/src/mechanics/GameManager.js) class, which has direct access to the Redux store to read player data and make changes.
+
+## References
+https://www.brivo.com/social-engineering-attacks-tailgating-in-physical-spaces/ 
+
 
 ## Commands
 `npm run start` - Starts the development server.

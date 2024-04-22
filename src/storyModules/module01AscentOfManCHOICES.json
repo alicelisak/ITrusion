@@ -70,7 +70,7 @@
   },
   {
     "KEY":"AA000AA000AB01",
-    "text":"Help your father. The boar is very dangerous and you are a weak young man, but you must do something to help before it's too late.",
+    "text":"You've seen their face before, maybe at the corporate welcome party?? Besides, they look dressed for work at Banana and is even wearing the unreleasd version of ePods. You let them in.",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -139,7 +139,7 @@
   },
   {
     "KEY":"AA000AA000AB02",
-    "text":"Go for help from the other hunters. They have nets and spears, but running after them will take precious time.",
+    "text":"You don't want to get in trouble but also don't want to annoy the HR department. They've been busy all day with the newest batch of interns. Just in case, you don't let them in and start walking towards the HR department.",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -415,7 +415,7 @@
   },
   {
     "KEY":"AA001AD000AA01",
-    "text":"Go hunting in the Bonewoods, a known home to wolves. Wolves are easier to find, but often roam in packs.",
+    "text":"You use a password protected Zip file. Word files are garbage. You send Betty the password via iMessage.",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -484,7 +484,7 @@
   },
   {
     "KEY":"AA001AD000AA02",
-    "text":"Go hunting near the mountains, where snow leopards occasionally roam. Snow leopards are hider to find, but are more often solitary and easier to take on one on one.",
+    "text":"You use a secure file transfer tool like Dropbox. You created a shared file via Banana's Dropbox account and email back with the link.",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -2830,7 +2830,7 @@
   },
   {
     "KEY":"AA001AG000AA01",
-    "text":"Set up camp and start again in the morning. Hunting in the dark is too dangerous.",
+    "text":"  ",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -2899,7 +2899,7 @@
   },
   {
     "KEY":"AA001AG000AA02",
-    "text":"Light a torch and keep going. You could lure the wolves to you with the light in the dark.",
+    "text":"   ",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -3106,7 +3106,7 @@
   },
   {
     "KEY":"AA001AG003AA01",
-    "text":"Keep going into the southern wastes. The lands are dangerous, ruled by the Witch Lords, who are known for their cruelty to trespassers, but you might still find some wolves there.",
+    "text":"   ",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -3865,7 +3865,7 @@
   },
   {
     "KEY":"AA001AG003BA02",
-    "text":"Shoot them from afar. It's a lower risk attack, but the light is poor this late in the day and you may not get a good shot off before they run.",
+    "text":"    ",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -19942,7 +19942,7 @@
   },
   {
     "KEY":"AA002AF002AA01",
-    "text":"Spend the time talking with some of the elders learning as much as you can about managing the tribe.",
+    "text":"   .",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -20011,7 +20011,7 @@
   },
   {
     "KEY":"AA002AF002AA02",
-    "text":"Keep to yourself and avoid bothering anyone any more than you already have.",
+    "text":"   ",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -20701,7 +20701,7 @@
   },
   {
     "KEY":"AA002AF003AA01",
-    "text":"Try to make yourself useful by asking the elders how you can help.",
+    "text":"  ",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -20770,7 +20770,7 @@
   },
   {
     "KEY":"AA002AF003AA02",
-    "text":"Keep to yourself and be glad that you haven't been noticed.",
+    "text":"    ",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -25945,7 +25945,7 @@
   },
   {
     "KEY":"AA003AD000AA01",
-    "text":"Insist on leading a hunting party with a few of the remaining young men to shore up the food stores.",
+    "text":"   ",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -26014,7 +26014,7 @@
   },
   {
     "KEY":"AA003AD000AA02",
-    "text":"Take one of the dogs south to try and track your brother's hunting party.",
+    "text":"    ",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -26083,7 +26083,7 @@
   },
   {
     "KEY":"AA003AD000AA03",
-    "text":"Stay out of it and let the tribal elders decide. They know best.",
+    "text":"   ",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -37606,7 +37606,7 @@
   },
   {
     "KEY":"AA003AJ004AE02",
-    "text":"Advise him to take the valley road. The road less travelled will offer greater refuge.",
+    "text":"Advise him to take ITrusion road. The road less travelled will offer greater refuge.",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",
@@ -39814,7 +39814,7 @@
   },
   {
     "KEY":"AA003AJ009BA01",
-    "text":"Lead the hunters on a short hunting expedition. The valley area is not rich with fauna, but the tribe could really use some meat.",
+    "text":"Lead the hunters on a short hunting expedition. ITrusion area is not rich with fauna, but the tribe could really use some meat.",
     "karmaCost":"",
     "intellectCost":"",
     "loveCost":"",

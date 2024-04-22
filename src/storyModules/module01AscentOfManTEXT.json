@@ -1,27 +1,27 @@
 [
   {
     "KEY":"AA000AA000AA",
-    "TEXT":"You wake up in the cool morning air and you're immediately overcome with expectation. You are a young boy soon to come of age and today you go on your first hunt with your father. \n\nYou are a runt compared to your older brother who is being groomed to lead the tribe. You are treated poorly, but you persevere and now is your chance to prove yourself, that you to are a worthy man of the tribe."
+    "TEXT":"You're a fresh hire for Banana - an American computer and consumer electronics company famous for creating the ePhone, ePad and Banan computers. You've been dreaming of working for Banana for years and don't want to do anything to screw it up. \n A few weeks your competitor company, Macrosoft, was attacked by unknown cyber criminals and everyone is on high alert."
   },
   {
     "KEY":"AA000AA000AB",
-    "TEXT":"You join the hunting party and your father looks at you skeptically, unsure of what to make of your character. Your brother hardly pays you notice and follows the other hunters into the forest.\n\nAfter many hours of searching, the dogs come across the tracks of a group of wild pigs. The hunters prepare their nets and spears and follow the tracks. You see the pigs in the thickets and the others stalk them quietly. Your father holds you back, however, and together you observe the hunters' tactics.\n\nOne of the pigs gets spooked and raises the alarm and the hunters chase the sprinting hogs. You make to follow, but turn abruptly at the nearby primal grunting. Before you stands a monstrous hulk of a boar with brutal tusks turned outward. The boar charges into your father and gores him and he struggles with the animal on the ground. \n\nWhat do you do?"
+    "TEXT":"You're at work, and a co-worker requests you to badge them into the tech building since they've forgotten their work badge \n\nWhat do you do?"
   },
   {
     "KEY":"AA001AA000AA",
-    "TEXT":"You throw yourself on the boar and struggle mightily, wrenching the animal off your father. It squeals in surprise and you knock it in the head with your stone hatchet. Its struggling stops as you crack its skull and you breathe a sigh of relief.\n\nYour father is amazed at your bravery and when the other hunters come back, they are in disbelief that you were capable of such valor. You go home to the tribe and when the others hear that you saved your father's life, you are considered a hero and for the first time in your life, your status in the tribe goes up."
+    "TEXT":"You open the door. It’s just common courtesy and more convenient. They'd do the same for you. \n\n They apologize profusely and run off to a meeting they are late too."
   },
   {
     "KEY":"AA001AB000AA",
-    "TEXT":"You're given more responsibility and people in the tribe start treating you with more respect. As you, you find yourself enjoying almost as much status in the tribe as your brother. You are invited along on hunting parties and the others never forget your bravery.\n\nYour father looks at you with pride and your brother slowly treats you as an equal."
+    "TEXT":"You grab a well-deserved coffee and return to your desk. It's conviently across from the server room so you figure if anything weird happens, you'll be the first to know."
   },
   {
     "KEY":"AA001AC000AA",
-    "TEXT":"Your father and the tribal elders think you are mature enough now to embark on your rites of passage. Your brother has already married and it is time for you to take your rightful place as a man in the tribe, but first you must prove yourself. You must embark upon the Test of the Hunter and bring back the pelt of a dangerous animal."
+    "TEXT":"You're at your desk and open your computer to start work. You see an instant chat notification from Betty, your new friend and co-worker. You see that your Betty wants you to send business plans to their personal email because they can't access their work email."
   },
   {
     "KEY":"AA001AD000AA",
-    "TEXT":"Your father arms you with a bow and a stone hatchet and sends you off, wishing you the best. You take one of the hounds and begin your journey into the wilderness.\n\nWhich direction do you take?"
+    "TEXT":"You know email is not secure. Your messages are sent in plain text. They also don’t got straight from you to the recipient. They go from your system to your ISP then out to a number of servers as it bounced it’s way to your recipient. Oh yeah….and when it bounces, it’s a copy which bounces. \n\n How do you send Betty the business plans?"
   },
   {
     "KEY":"AA001AE000AA",
@@ -69,7 +69,7 @@
   },
   {
     "KEY":"AA001AE002AB",
-    "TEXT":"You set up camp and warm yourself by the fire with your dog. \n\nYou wake up the next morning rested and ready to continue the journey."
+    "TEXT":"HR messages back within minutes and says, 'Please come meet us in the administrative branch ASAP' "
   },
   {
     "KEY":"AA001AE002AC",
@@ -125,7 +125,7 @@
   },
   {
     "KEY":"AA001AG000AA",
-    "TEXT":"You reach the Bonewoods and your dog immediately shows concern. The woods are thick and eerie and many hunters have set foot here never to be heard from again. You gather your strength and enter.\n\nYou hunt for hours, but your dog still picks up no trace. It's getting dark."
+    "TEXT":"Oh shoot. You click on the Betty's name in the sender section of the email and the url is betty@banan.org. You know that all work emails end in banana.org \n\n What do you do?"
   },
   {
     "KEY":"AA001AG000AB",
@@ -137,7 +137,7 @@
   },
   {
     "KEY":"AA001AG003AA",
-    "TEXT":"You keep going all day, but still no sign of wolves. You reach the edge of the Bonewoods, a sense of defeat creeping up inside you."
+    "TEXT":"As you walk, you see a text back from Betty: \n\n 'Hey! Did you just see my email? My system has been super wonky and don't want to be unprepared for the meeting this afternoon :)' "
   },
   {
     "KEY":"AA001AG003AB",
@@ -165,7 +165,7 @@
   },
   {
     "KEY":"AA001AG003BA",
-    "TEXT":"You travel deep into the arid southern wastes and night soon approaches. Eventually, however, your dog picks up a scent. You follow your dog and find a pack of wolves resting by a ridge."
+    "TEXT":"You walk into HR's office and take a seat. The head of HR asks 'Did you happen to see an employee without a badge walk in?'"
   },
   {
     "KEY":"AA001AG003BB",
@@ -181,7 +181,7 @@
   },
   {
     "KEY":"AA001AG003BE",
-    "TEXT":"You pull out your bow and take position behind some bushes on a hill. You take careful aim and draw back your bow, and when you feel like you've got a good shot, you fire. The arrow whistles through the air, but lands just short of your target. The wolves are spooked by the attack and break into a galloping run. You take aim and fire again, but your shot is way off the mark.\n\nYou sigh and drink in the bitter taste of defeat. You are too far from home to chase them and you will have to return home empty handed. The rewards you could have had... now lost. Your dog whimpers and you can do naught but regret your decisions."
+    "TEXT":"'Yes, disgruntled ex-employees, corporate sabotage, and even violent attacks can be perpetrated inside a physical space when an unauthorized individual gains access by exploiting the courtesy of an unsuspecting staff member. They likley even targeted you as a new hire'"
   },
   {
     "KEY":"AA001AG000AD",
@@ -269,11 +269,11 @@
   },
   {
     "KEY":"AA001AG003CA",
-    "TEXT":"You make the decision to return home and the sense of defeat is overwhelming. The journey is hard and difficult, mostly because the whole way there, you are weighed down with the inadequacy born of defeat. You may never get a chance to prove earn your manhood again."
+    "TEXT":"'Simply asking someone to hold the door or making up a story about a badge left at home, on a desk, or in a car, is easy. It's a practice called piggybacking. We don't know what the threat is yet, but our systems have decteced suspicious activity from the server room'"
   },
   {
     "KEY":"AA001AG003CB",
-    "TEXT":"You return home and all in the tribe are disappointed in your weakness and failure. All memories of your past heroism are quickly forgotten and the others come to avoid you and keep their distance. To them, you are not a real man, and you will have great difficulty overcoming that stigma.\n\nThe most beautiful girls of the tribe, who had previously prized you as a great prospect, now see you as a weakling with nothing to offer. They all immediately lose interest in you and you may now never be able to find a wife and marry. You will not be able to take your place as a leader of your tribe. And life in the tribe will be hard for you from now on for you a pariah."
+    "TEXT":"   ."
   },
   {
     "KEY":"AA001AH001AA",
@@ -285,7 +285,7 @@
   },
   {
     "KEY":"AA001AG003CD",
-    "TEXT":"One day, you are tasked with cleaning up after the animals - since you have no status in the tribe - when you are attacked by a pack of hungry wolves. You survive, but barely, and find yourself permanently crippled from the attack. Your tribe looks on you with disgust and resent the fact that what was once such a promising young man of the tribe is now nothing more than a burden.\n\nYou are shocked at the turn of events and your rapid fall from grace. Despair becomes your constant companion as you watch your brother succeed and triumph daily where you failed."
+    "TEXT":"  "
   },
   {
     "KEY":"AA001AH001AC",
@@ -889,15 +889,15 @@
   },
   {
     "KEY":"AA002AG000AB",
-    "TEXT":"There has been a food shortage that has been preoccupying everyone for weeks now and to make matters worse, there's a storm coming on the horizon. All signs point to a migration occurring soon.\n\nBut what bothers you the most is the tangible feeling of resentment the tribe has towards you, knowing that you will not be able to keep pace with them. Yet again, you are a burden holding them back. But they tolerate your presence due to your status as chieftain's son... for now."
+    "TEXT":"  ."
   },
   {
     "KEY":"AA002AF002AA",
-    "TEXT":"Your father has decided it's time for a migration. There's not enough food here to sustain the tribe and he has decided to head east towards the steppes. Since you are a cripple you will have to ride on one of the wagons."
+    "TEXT":"   ."
   },
   {
     "KEY":"AA002AF002AB",
-    "TEXT":"The elders are annoyed at your interruptions, but eventually they relent at your insistence and speak with you on managing the tribe. Slowly, you begin to gain their respect."
+    "TEXT":"   "
   },
   {
     "KEY":"AA002AF002AC",
@@ -929,7 +929,7 @@
   },
   {
     "KEY":"AA002AF003AA",
-    "TEXT":"The journey to the steppes is long and hard, but as the days pass into weeks, the landscape changes and you know you've almost arrived at your destination.\n\nYour father sends out scouts to search for a good location to found a new village. Your brother reports back from one of the scouting parties that there is a location near a river that has ample plants and animals to support the tribe. The elders are glad to hear it and settle on it as a destination.\n\nEveryone is busy with preparations, but you find yourself sitting in a corner, useless."
+    "TEXT":" "
   },
   {
     "KEY":"AA002AF003AB",
@@ -1141,19 +1141,19 @@
   },
   {
     "KEY":"AA003AA000AA",
-    "TEXT":"You run for help as your father struggles against the boar. You find your brother and the hunters and frantically warn them, but by the time you come back, it's too late. Your father is dead.\n\nYour brother is stricken with grief and disappointed in you. You've proven yourself unreliable and cowardly and soon all of the tribe will know as well. Overwhelmed by tears for your father, you know that life in the tribe for you will never be the same."
+    "TEXT":"After telling HR that someone's outside without a badge, you return to your desk. A sticky note is attached to your desk from Martha, your boss who is on paid leave for the day. \n\n The note: [Heyyy, sorry for the delay in those server passwords. Username: 0 Password: 1 or 1=1;–   \n\n xx, throw out the note once memorized!]"
   },
   {
     "KEY":"AA003AB000AA",
-    "TEXT":"Your brother becomes leader of the tribe and blames you for your father's death. He and his newly wed wife shun you and so does the rest of the tribe. You were known as the runt before but now you become known as the coward as well."
+    "TEXT":"Your input the sticky note's information into your computer and thousands of Banana's users data lines the screen. \n\n  USERID, FIRST_NAME, LAST_NAME, CC_NUMBER, CC_TYPE, COOKIE"
   },
   {
     "KEY":"AA003AC000AA",
-    "TEXT":"You grow up in shame, becoming increasingly ostracized as the months go by. You do your best to keep to yourself and not bother anyone, but you always seem to be getting in the way. Your childhood friends grow distant from you and you are left to your own devices. Months pass and you get used to spending time by yourself because anyone seen interacting with you suffers damage to their standing in the tribe."
+    "TEXT":"   "
   },
   {
     "KEY":"AA003AD000AA",
-    "TEXT":"Your brother has led a hunting party south, but hasn't been heard from in days. The tribe is growing worried. Many of the tribe's strongest men were with the party and food stores are running low. To make matters worse, storm season is coming. The tribe elders bicker and cannot agree on what to do."
+    "TEXT":"   "
   },
   {
     "KEY":"AA003AF000AA",
@@ -1617,7 +1617,7 @@
   },
   {
     "KEY":"AA003AJ004AE",
-    "TEXT":"As the migration proceeds, you find yourself at an impasse. Your brother favors taking the eastern plains road as it will make for faster travel, but he is concerned about running into strangers. You can also take the low road through the valley, which will make for slower, more difficult travel, but is less widely used and possibly safer. He asks you for your advice."
+    "TEXT":"As the migration proceeds, you find yourself at an impasse. Your brother favors taking the eastern plains road as it will make for faster travel, but he is concerned about running into strangers. You can also take the low road through ITrusion, which will make for slower, more difficult travel, but is less widely used and possibly safer. He asks you for your advice."
   },
   {
     "KEY":"AA003AJ008AA",
@@ -1693,7 +1693,7 @@
   },
   {
     "KEY":"AA003AJ009AA",
-    "TEXT":"Your brother is swayed by your opinion and he decides to take the valley road. Your people are discouraged at your decision since it will mean so much more travel, but hopefully it will be safer. You begin your journey."
+    "TEXT":"Your brother is swayed by your opinion and he decides to take ITrusion road. Your people are discouraged at your decision since it will mean so much more travel, but hopefully it will be safer. You begin your journey."
   },
   {
     "KEY":"AA003AJ009AB",
@@ -1741,15 +1741,15 @@
   },
   {
     "KEY":"AA003AJ009BG",
-    "TEXT":"Some of the scouts report a stream with fish deeper in the valley, but it's populated by bears. He asks you to lead a group of spear fishers down there and bring back enough food to last the rest of the journey."
+    "TEXT":"Some of the scouts report a stream with fish deeper in ITrusion, but it's populated by bears. He asks you to lead a group of spear fishers down there and bring back enough food to last the rest of the journey."
   },
   {
     "KEY":"AA003AJ009BH",
-    "TEXT":"You travel down the valley and into the stream, and your spear fishers pile up as much fish as possible before returning to camp. The tribe resumes its journey."
+    "TEXT":"You travel down ITrusion and into the stream, and your spear fishers pile up as much fish as possible before returning to camp. The tribe resumes its journey."
   },
   {
     "KEY":"AA003AJ009BI",
-    "TEXT":"You move quickly, but the valley is populated with more bears than you had even suspected. A group of bears hears you and you are quickly overwhelmed by the insatiable monsters. They chew up and terrorize your men.\n\nYou make to run when you crash head first into a bear. He stares at you for a moment before mauling you and eating you alive. You die screaming in agony, learning your lesson far too late: don't mess with bears."
+    "TEXT":"You move quickly, but ITrusion is populated with more bears than you had even suspected. A group of bears hears you and you are quickly overwhelmed by the insatiable monsters. They chew up and terrorize your men.\n\nYou make to run when you crash head first into a bear. He stares at you for a moment before mauling you and eating you alive. You die screaming in agony, learning your lesson far too late: don't mess with bears."
   },
   {
     "KEY":"AA003AJ009BJ",
@@ -2525,7 +2525,7 @@
   },
   {
     "KEY":"AA004AU003AA",
-    "TEXT":"You journey deep into the mountains and cross the rocky passes with grit and determination. The path is harsh and treacherous, but you persevere. The cold is biting and food is scarce, and the fatigue takes its toll, but you push forward knowing you're too far now to turn back.\n\nThen, when crossing a particularly difficult ridge, you slip and fall down the slope of the mountain. You scramble to grab hold of something to stop your descent, but you fall off the side and into the ravine.\n\nYour scream echoes through the valley as you complete your final descent. Nobody is there to hear the sound of your body snapping against the rock, and the blackness takes you completely."
+    "TEXT":"You journey deep into the mountains and cross the rocky passes with grit and determination. The path is harsh and treacherous, but you persevere. The cold is biting and food is scarce, and the fatigue takes its toll, but you push forward knowing you're too far now to turn back.\n\nThen, when crossing a particularly difficult ridge, you slip and fall down the slope of the mountain. You scramble to grab hold of something to stop your descent, but you fall off the side and into the ravine.\n\nYour scream echoes through ITrusion as you complete your final descent. Nobody is there to hear the sound of your body snapping against the rock, and the blackness takes you completely."
   },
   {
     "KEY":"AA004AU004AA",

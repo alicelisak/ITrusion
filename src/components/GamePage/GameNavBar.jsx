@@ -8,7 +8,7 @@ export class GameNavBar extends React.Component {
     return (
       <Navbar expand="lg" variant="dark">
         <Container className="game-nav-container">
-          <Link to="/" className="navbar-brand">The Valley</Link>
+          <Link to="/" className="navbar-brand">ITrusion</Link>
           <Nav>
             <Link to="/">Menu</Link>
           </Nav>

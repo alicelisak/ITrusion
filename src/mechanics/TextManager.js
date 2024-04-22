@@ -4,7 +4,7 @@ import ascentOfManLinkNodesJSON from '../storyModules/module01AscentOfManLINKNOD
 import ascentOfManTextJSON from '../storyModules/module01AscentOfManTEXT.json';
 
 import constants from '../globals/constants';
-
+  
 export default class TextManager {
 
   // This method loads JSON story data and returns an object
