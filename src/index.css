@@ -7,7 +7,7 @@ body {
 
 body {
   background-color: rgb(5, 5, 5);
-  background: rgb(5, 5, 5) url('./assets/valley_bg_01_small.png');
+  background: rgb(65, 65, 65) url('./assets/valley_bg_01_small.png');
   background-position: center;
   background-repeat: no-repeat;
   color: white;
@@ -31,7 +31,7 @@ body {
 
 h1, h2, h3, h4, h5 {
   font-family: 'Lora', serif;
-  font-weight: 700;
+  font-weight: 800;
   font-style: italic;
 }
 
@@ -63,7 +63,7 @@ h4.menu-tagline {
 .menu-info {
   font-style: italic;
   color: #B4B4B4;
-  font-size: 1.05rem;
+  font-size: 1.08rem;
   max-width: 300px;
   text-align: left;
   margin-bottom: 2.5rem;
@@ -78,7 +78,7 @@ h4.menu-tagline {
 }
 
 .menu-list h3 {
-  font-size: 1.8rem;
+  font-size: 1.9rem;
   margin-bottom: 1.5rem;
 }
 
