@@ -37,19 +37,19 @@
   },
   {
     "KEY":"AA001AE001AA",
-    "TEXT":"The winds are brutal, but momentarily die down. As they do, your dog suddenly picks up a scent. You follow it as it leads you to a dark cave."
+    "TEXT":"'Simply asking someone to hold the door or making up a story about a badge left at home, on a desk, or in a car, is easy. It's a practice called piggybacking. We don't know what the threat is yet, but our systems have decteced suspicious activity from the server room'"
   },
   {
     "KEY":"AA001AE001AB",
-    "TEXT":"You enter the cave and see the animal. But it turns out your dumb dog led you to a bear instead of a leopard. The bear kills you. You die. Thanks dog, you son of a bitch."
+    "TEXT":"Banana Inc. is spread over 10 locations and has 1,000 staff working for them. The company is known for having advanced imaging and monitoring systems that share information with all 10 sites with cloud synchronization."
   },
   {
     "KEY":"AA001AE001AE",
-    "TEXT":"You see the leopard sleeping in the cave, but it's a mother with cubs who will surely die without her. You could easily kill it with your bow and you have an arrow notched."
+    "TEXT":"Technical staff within your building at Banana are beginning to report that some servers from Amavon, third party unmanaged legacy systems, are experiencing slowness, application malfunctions, and a text file appearing on the monitor. Initial analysis by the Help Desk confirms that these appear to be ransom notes, stating that files are encrypted on the computers and the ransom must be paid within 42 hours in order to recover the files."
   },
   {
     "KEY":"AA001AE001AF",
-    "TEXT":"You loose your arrow and the leopard dies. The cubs wake up and cry for their mother, and you slit their throats out of mercy. Your hands are drenched in blood, but such is the price of manhood."
+    "TEXT":" RANDSOM NOTE: \n\n Welcome. Again. \n\n Whats Happen? \n\n Your files are encrypted, and currently unavailable. You can check it: all files on your system has extension di7h9150. By the way, everything is possible to recover (restore), but you need to follow our instructions. Otherwise, you cant return your data (NEVER). \n\n What guarantees?\n\n Its just a business. We absolutely do not care about you and your deals, except getting benefits. If we do not do our work and liabilities - nobody will not cooperate with us. Its not in our interests. To check the ability of returning files, You should go to our website. There you can decrypt one file for free. That is our guarantee. If you will not cooperate with our service - for us, its does not matter. But you will lose your time and data, cause just we have the private key. In practice - time is much more valuable than money. \n\n How to get access on website? \n\n Using a TOR browser! \n\n Download and install TOR browser from this site: torproject.org \n\n ."
   },
   {
     "KEY":"AA001AE001AG",
@@ -85,15 +85,15 @@
   },
   {
     "KEY":"AA001AE002BA",
-    "TEXT":"You press onward, but to no avail. The winds are beginning to blow fiercely - a mountain snowstorm might be on the way."
+    "TEXT":"As you walk, you see a text back from Betty: \n\n 'Hey! Did you just see my email? My system has been super wonky and don't want to be unprepared for the meeting this afternoon :)'."
   },
   {
     "KEY":"AA001AE002BB",
-    "TEXT":"You fight through the brutal winds for hours, but the snowstorm sets in and you are overwhelmed by the raging drifts of snow. "
+    "TEXT":"You walk into HR's office and take a seat. The head of HR asks 'Did you happen to see an employee without a badge walk in?'"
   },
   {
     "KEY":"AA001AE002BC",
-    "TEXT":"You huddle with your dog amongst the rock and wait out the storm. It takes hours and you wonder if you won't make it, but eventually, the storm clears out and you're able to resume the journey."
+    "TEXT":"There might be a problem. Disgruntled ex-employees, corporate sabotage, and even violent attacks can be perpetrated inside a physical space when an unauthorized individual gains access by exploiting the courtesy of an unsuspecting staff member. They likley even targeted you as a new hire'"
   },
   {
     "KEY":"AA001AE002BD",
@@ -133,7 +133,7 @@
   },
   {
     "KEY":"AA001AG000AC",
-    "TEXT":"You set up camp and spend the night around the campfire with your dog.  In the morning, you wake up refreshed and continue your journey."
+    "TEXT":"You walk into HR's office and take a seat. The head of HR asks 'Did you happen to see an employee without a badge walk in?'"
   },
   {
     "KEY":"AA001AG003AA",
@@ -181,7 +181,7 @@
   },
   {
     "KEY":"AA001AG003BE",
-    "TEXT":"'Yes, disgruntled ex-employees, corporate sabotage, and even violent attacks can be perpetrated inside a physical space when an unauthorized individual gains access by exploiting the courtesy of an unsuspecting staff member. They likley even targeted you as a new hire'"
+    "TEXT":"'There might be a problem. Disgruntled ex-employees, corporate sabotage, and even violent attacks can be perpetrated inside a physical space when an unauthorized individual gains access by exploiting the courtesy of an unsuspecting staff member. They likley even targeted you as a new hire'"
   },
   {
     "KEY":"AA001AG000AD",
@@ -269,7 +269,7 @@
   },
   {
     "KEY":"AA001AG003CA",
-    "TEXT":"'Simply asking someone to hold the door or making up a story about a badge left at home, on a desk, or in a car, is easy. It's a practice called piggybacking. We don't know what the threat is yet, but our systems have decteced suspicious activity from the server room'"
+    "TEXT":"'Simply asking someone to hold the door or making up a story about a badge left at home, on a desk, or in a car, is easy. It's a practice called piggybacking. You aren't in trouble. Threat actors exploit the human component of our daily routine to hack our systems. That's why education and the culture of a company are critical. \n\n We don't know what the threat is yet, but our systems have decteced suspicious activity from the server room'"
   },
   {
     "KEY":"AA001AG003CB",
@@ -1141,23 +1141,23 @@
   },
   {
     "KEY":"AA003AA000AA",
-    "TEXT":"After telling HR that someone's outside without a badge, you return to your desk. A sticky note is attached to your desk from Martha, your boss who is on paid leave for the day. \n\n The note: [Heyyy, sorry for the delay in those server passwords. Username: 0 Password: 1 or 1=1;–   \n\n xx, throw out the note once memorized!]"
+    "TEXT":"You return to your desk. A sticky note is attached to your desk from Martha, your boss who is on paid leave for the day. \n\n The note: [Heyyy, sorry for the delay in those server passwords. Username: 0 Password: 1 or 1=1;–   \n\n xx, throw out the note once memorized!]"
   },
   {
     "KEY":"AA003AB000AA",
-    "TEXT":"Your input the sticky note's information into your computer and thousands of Banana's users data lines the screen. \n\n  USERID, FIRST_NAME, LAST_NAME, CC_NUMBER, CC_TYPE, COOKIE"
+    "TEXT":"You input the sticky note's information into your computer and thousands of Banana's users data lines the screen. \n\n  USERID, FIRST_NAME, LAST_NAME, CC_NUMBER, CC_TYPE, COOKIE"
   },
   {
     "KEY":"AA003AC000AA",
-    "TEXT":"   "
+    "TEXT":"You've seen this before in prior training. The username and password was actually a SQL injection and the payload in the WHERE statement ( 1 or 1=1;–) always returns true. "
   },
   {
     "KEY":"AA003AD000AA",
-    "TEXT":"   "
+    "TEXT":"You know this is bad. Most SQL injections attacks delete entire databases. You are unsure if the users' data that appeared on your screen was shared with a threat actor. What do you do?"
   },
   {
     "KEY":"AA003AF000AA",
-    "TEXT":"The elders are incredulous. Some of the others laugh at you, not believing you're capable. They would never trust you with any of the few remaining men. However, the food stores are low and many of the tribe are greatly concerned."
+    "TEXT":"You decide to check the server logs to determine the extent of the SQL injection. You find traces of unauthorized access not only to user data but also to administrative functions. Should you escalate this to your IT security team, or try to handle it on your own?"
   },
   {
     "KEY":"AA003AF000AB",
@@ -1197,7 +1197,7 @@
   },
   {
     "KEY":"AA003AG000AA",
-    "TEXT":"The elders are incredulous, but no one else volunteers. They say you can go... alone. They will not send any of the last few men with you. They will let you take one of the dogs and precious few supplies."
+    "TEXT":"Recognizing the severity of the breach, you immediately disconnect the affected server from the network to prevent any further unauthorized access. You then begin drafting an incident report. Do you include that the note was from Martha?"
   },
   {
     "KEY":"AA003AG001AA",
@@ -1437,11 +1437,11 @@
   },
   {
     "KEY":"AA003AH000AA",
-    "TEXT":"You try to stay out of the way of the village's preparations, but you notice your brother's wife, Liana - who you've had little contact with since becoming a pariah - clearly worried and distressed."
+    "TEXT":"Unsure of how to proceed alone, you contact IR (Incident Response) for immediate assistance. They start a forensic analysis. Do you tell them that the note was from Martha? "
   },
   {
     "KEY":"AA003AH001AA",
-    "TEXT":"She balks at you. She thinks little of you and is cold and dismissive."
+    "TEXT":"You draft the report and present it to the IT team. During the meeting with IT, initial findings are shared and the team stresses the importance of a coordinated response. The next step is deciding whether to go public with the information about the breach or to keep it under wraps until more information is gathered."
   },
   {
     "KEY":"AA003AH001AB",
@@ -1453,7 +1453,7 @@
   },
   {
     "KEY":"AA003AH002AA",
-    "TEXT":"With the food shortage crippling your people and your brother nowhere in sight, the remainder of the tribe dissolves into bickering groups and disperses in different directions. None want anything to do with you and you are left to fend for yourself."
+    "TEXT":"You decide to not share how the attack began. The IT team finds multiple backdoors left by the attacker. Analysis shows that the backdoor could have only been planted by an internal employee. \n\n They determine you must be a part of the attack and immediatley begin containment control starting with firing you."
   },
   {
     "KEY":"AA003AH003AA",

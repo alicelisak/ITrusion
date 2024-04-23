@@ -60,6 +60,22 @@ export default class TextManager {
         choicesData: {}
       }
 
+    // trying to get JSON to recognize an image
+    const imgPattern = /^img:(.+)/;
+
+    for (const i in moduleText) {
+      let text = moduleText[i].TEXT;
+      // Check for the 'img:' pattern
+      const match = text.match(imgPattern);
+      if (match) {
+        // If there's a match, create an img tag with the captured path
+        const imgPath = match[1].trim();
+        text = `<img src="${imgPath}" alt="Dynamic Image">`;
+      }
+      // Update the textData only after checking for the image pattern
+      data.textData[moduleText[i].KEY] = text;
+    }
+
     for (const i in moduleText) {
       data.textData[moduleText[i].KEY] = moduleText[i].TEXT;
     }
