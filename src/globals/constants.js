@@ -42,8 +42,8 @@ const constants = {
   DEATH_KEY: 'DEATH',
   END_KEY: 'END',
   CONTINUE_TEXT: 'Continue...',
-  DEATH_TEXT: 'You died... but maybe next time, things will be different.',
-  END_TEXT: 'The end... or is it?',
+  DEATH_TEXT: 'You have lost your dream job.',
+  END_TEXT: 'Congrats. Banana is lucky to have you!',
   END_CHOICE: 'Return to menu...'
 };
 

@@ -1445,11 +1445,11 @@
   },
   {
     "KEY":"AA003AH001AB",
-    "TEXT":"She scowls at your intrusions and walks away. You watch her leave and wonder why you even bothered."
+    "TEXT":"Post-notification to customers about the breach, you face backlash and concerns about data security. Upper management demands a quick resolution and enhanced PR management to handle the situation. Your next steps involve coordinating with PR to draft a comprehensive communication strategy while working on securing the systems."
   },
   {
     "KEY":"AA003AH001AC",
-    "TEXT":"She gets mad at you and tells you never to talk to her again. You watch her leave and wonder why you even bothered."
+    "TEXT":"The IT team keeps it under wraps while launching a full forensic investigation. They identify that multiple endpoints have been compromised. The team decides to reset all user credentials immediately, which could alert the attackers but would secure the accounts."
   },
   {
     "KEY":"AA003AH002AA",
@@ -1489,7 +1489,7 @@
   },
   {
     "KEY":"AA003AH008AC",
-    "TEXT":"You assume it's nothing and go back to sleep. However, you wake once again, this time looking up at the heavy bearded visage of a monstrous man stand over you. You scream, but he covers your mouth with his massive hand. With his other hand, he crushes your windpipe.\n\nYou can tell by his garb and look that he's one of the Mountain People, and you know there's little you can do against his brute strength. You struggle helplessly as your consciousness fades under the weight his body crushing yours. The crippling pain soon fades and you welcome the mercy of eternal sleep."
+    "TEXT":"By managing internal communications effectively and preventing leaks, you sucessfuly maintained control over the narrative. Once the SQL injection attack is fully contained, a comprehensive debrief is provided to all employees, reinforcing the culture of transparency and preparedness. \n\n Good job on your first cyber attack at Banana."
   },
   {
     "KEY":"AA003AH009AB",
