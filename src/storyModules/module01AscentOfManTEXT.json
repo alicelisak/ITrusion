@@ -93,7 +93,7 @@
   },
   {
     "KEY":"AA001AE002BC",
-    "TEXT":"There might be a problem. Disgruntled ex-employees, corporate sabotage, and even violent attacks can be perpetrated inside a physical space when an unauthorized individual gains access by exploiting the courtesy of an unsuspecting staff member. They likley even targeted you as a new hire'"
+    "TEXT":"'There might be a problem. Disgruntled ex-employees, corporate sabotage, and even violent attacks can be perpetrated inside a physical space when an unauthorized individual gains access by exploiting the courtesy of an unsuspecting staff member. They likley even targeted you as a new hire'"
   },
   {
     "KEY":"AA001AE002BD",
@@ -141,23 +141,23 @@
   },
   {
     "KEY":"AA001AG003AB",
-    "TEXT":"You continue your trek into the southern wastes, but soon get the feeling that you're being watched. \n\nYou turn and find yourself surrounded by fiercely painted, monstrous men. You recognize them immediately as Witch Lords, and your stomach sinks in dread. You've heard the stories of their brutality and you've fallen right into their clutches."
+    "TEXT":"After choosing to text Betty back for more information, you receive a quick reply, 'Oh, it's just some tech issues, nothing major! By the way, did you manage to send those plans? Really need them for the afternoon meeting.'"
   },
   {
     "KEY":"AA001AG003AC",
-    "TEXT":"With trepidation, you explain your rites of passage to the Witch Lords and somehow you get through to them. They lose interest in you and tell you if you ever trespass again they will burn you alive.\n\nMiraculously, they let you walk away alive. You walk. Then run. Then count your blessings."
+    "TEXT":"You decide to dig a little deeper before taking any action. You check the previous email headers from Betty and compare them to the one you received today. You notice discrepancies in the IP addresses, suggesting that today's emails are not coming from within the company's network."
   },
   {
     "KEY":"AA001AG003AD",
-    "TEXT":"With trepidation, you explain your rites of passage to the Witch Lords, but they have no interest in your words.\n\nThey tie you up and burn you alive. Your screams echo into the night.\n\nSo much for proving yourself a man."
+    "TEXT":"You determine Betty’s email account was spoofed by attackers trying to steal confidential company information. Your decision to check the email headers helps avert a potential security breach. You continue walking to HR."
   },
   {
     "KEY":"AA001AG003AE",
-    "TEXT":"You bolt and run for the hills. You don't get far, however, before projectiles know you down. They shoot you with slings and you collapse to the ground, the pain cutting into your limbs. \n\nThey force your face to the dirt and with a swift, vicious strike, slice your throat. You bleed out and slowly die."
+    "TEXT":"Feeling suspicious, you decide to confront Betty directly. You call her office line instead of replying to the email or text."
   },
   {
     "KEY":"AA001AG003AF",
-    "TEXT":"You bolt and run for the hills. They fire at you with slings and projectilea whistle by, but you dodge them. After what seems like an eternity of running, you somehow get away.\n\nHowever, you soon realize that your dog did not follow. It either got separated in the fight, or killed, but it's too late to go back for it now. You breathe a bitter sigh of defeat knowing that now you won't be able to track wolves. And you'll be forced to return to the tribe empty-handed. This was all for nothing."
+    "TEXT":"When you call Betty, she sounds confused and informs you that she hasn’t sent any emails today due to network issues. This confirms your suspicion of identity theft, and you slack the security team on your way to HR."
   },
   {
     "KEY":"AA001AG003AG",
@@ -177,7 +177,7 @@
   },
   {
     "KEY":"AA001AG003BD",
-    "TEXT":"You pull out your bow and take position behind some bushes on a hill. You take careful aim and draw back your bow, and when you feel like you've got a good shot, you fire. Your aim is true and it buries itself in the neck of a wolf that yelps in pain. The rest quickly retreat and you fire once more at the wounded wolf to finish it off.\n\nYou stop to catch your breath and take pride in the kill. You've come a long way, but considering the rewards waiting for you ahead, you know the pain and risk was worth it."
+    "TEXT":"You respond to HR's inquiry with a sense of urgency, indicating that while you did allow someone in earlier, believing you recognized them, there is a more pressing issue at hand. You quickly explain that you've received suspicious communications from 'Betty,' your boss."
   },
   {
     "KEY":"AA001AG003BE",
@@ -277,11 +277,11 @@
   },
   {
     "KEY":"AA001AH001AA",
-    "TEXT":"You skin the animal and prepare to return home. It's a long journey back and it takes several days, but the feeling of victory lifts you as you walk."
+    "TEXT":"HR responds, 'We will have IT check out Betty's request. However, we believe you have been targeted by an attackers as a new hire. It is very common that disgruntled ex-employees, corporate sabotage, and even violent attacks can be perpetrated inside a physical space when an unauthorized individual gains access by exploiting the courtesy of an unsuspecting staff member.'"
   },
   {
     "KEY":"AA001AH001AB",
-    "TEXT":"With the pelt in hand, you return home a true hero. There is a celebration that night of rich food and strong drink - which you are allowed to partake in for the first time - and you are anointed with animal blood by the tribe's shaman, signifying your departure from childhood and entrance into the realm of man."
+    "TEXT":"An Incident Response analyst assigns the ticket to himself and notes the computer names listed in the ticket. \n\n During his analysis and research the IR analyst finds a remote access software on some of Amavon’s systems. Amavon has a remote access connection to the systems in question, with administrative rights. \n\n The IR team had received advisories from NYC Cyber Command and US-CERT that there has been an exploit of a vulnerability in this brand of remote access software. This allows threat actors to take full control of the remote access servers and the client computers that are managed from those servers."
   },
   {
     "KEY":"AA001AG003CD",
@@ -289,11 +289,11 @@
   },
   {
     "KEY":"AA001AH001AC",
-    "TEXT":"At night, the tribe gathers round by the fire to honor you and your accomplishments.\n\nTwo of the tribe's most beautiful girls are presented to you, both of them eager to be your bride. They both stand before you and wait for your judgment. It is more power than you've ever felt before, standing amongst your tribe as the favored son, as the other boys gaze on in envy."
+    "TEXT":"During the investigation, the analyst determines that the remote access client was indeed running with administrative rights and the threat actor was able to run Trickbot on the Amavon computers. \n\n Trickbot is a modular, malicious software used to gain a foothold in a computer network and take other actions, such as dropping credential stealers or ransomware on systems."
   },
   {
     "KEY":"AA001AH001AD",
-    "TEXT":"You move forward to take Jeneth's hands in yours. They are soft and supple, and they melt in yours as she gazes deeply into your eyes, overjoyed. Syla turns away, disappointed, her pride visibly hurt more than anything. But her wild independence was clearly trouble, and she will have plenty of other suitors to take that burden on.\n\nThe shaman guides you and Jeneth through the wedding ritual, and your father, your brother, and the rest of the tribe bear witness to your union under the auspices of the gods with pride and approval.\n\nJeneth follows you eagerly into your tent and upon entering the darkness, quickly presses herself upon you and you spend the night filled with a joy and vitality you had never before known. Before falling asleep with you under the furs, she whispers in your ear that she will be devoted and prove herself worthy of a man as great as you. Her warmth engulfs you and fills you with happiness and satisfaction, but you know your frail and sensitive wife will need your protection."
+    "TEXT":"During the ransomware investigation, the Incident Response team detected an alert from the EDR indicating possible suspicious activity on a Domain Controller. Further analysis confirmed that this activity involved an attacker extracting the contents of the NTDS.dit file into a password-protected file named exfil.zip. The NTDS.dit file holds the password hashes for all users in Active Directory. Upon examining the network activity on the Domain Controller, an IR team member identified a source IP address corresponding to one of the Amavon workstations."
   },
   {
     "KEY":"AA001AH001AE",
@@ -305,15 +305,15 @@
   },
   {
     "KEY":"AA001AH001AG",
-    "TEXT":"As you settle into your new married life, there has been growing concern amongst the tribe of a food shortage. In addition, a storm is apparent on the horizon and the people have grown anxious. The weather is getting cooler and the seasons are changing, and your father and the elders have decided it is time for a migration - namely, to the eastern steppes.\n\nIt will be a difficult journey, but your father wants you to take a leadership role in organizing the migration."
+    "TEXT":"Subsequently, monitors at several other Amavon sites displayed infection signs. Amavon has issued an advisory regarding the breach, including some Indicators of Compromise (IOCs), and has temporarily shut down access to client systems."
   },
   {
     "KEY":"AA001AH001AH",
-    "TEXT":"You join the hunters as they search for whatever food they can to help the tribe survive the migration. You learn more about hunting and preserving meat and the hunters quickly accept you as one of their own."
+    "TEXT":"After payment, the attackers provide a decryption key, and most of the encrypted files are restored. However, the breach has caused significant reputational damage for Banana, and there is no guarantee that the stolen data, including the NTDS.dit file contents, won't be misused or sold. \n\n Banana has severe regulatory fines and a loss of trust among clients and stakeholders. \n\n Internally, the decision leads to a review of policies regarding ransomware and necessitates additional investments in cybersecurity."
   },
   {
     "KEY":"AA001AH001AI",
-    "TEXT":"As the migration proceeds, you spend time with the elders and they teach you about the administrative aspects of managing the tribe. The knowledge will help you aid your father and brother in leading your people."
+    "TEXT":"Choosing not to pay the ransom leads to a difficult recovery period where the IT team works tirelessly to restore systems from backups. \n\n Some data is permanently lost since recent backups have been corrupted. Banana is forced to rebuild the organization's security infrastructure, involving substantial investments in new technologies and training. \n\n Over time, this decision strengthens the Banana's resilience against cyber threats and builds stronger trust with clients due to the principled stance against paying ransoms."
   },
   {
     "KEY":"AA001AH002AA",
