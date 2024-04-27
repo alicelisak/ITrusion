@@ -40,10 +40,12 @@ export default class GameManager {
     let text = '';
 
     if (checkIfGameDeath(key)) {
-      text = constants.DEATH_TEXT;
+      // text = constants.DEATH_TEXT;
+      text = `${constants.DEATH_TEXT}\n\n${this.getFormattedPoints()}`;
 
     } else if (checkIfGameEnded(key)) {
-      text = constants.END_TEXT;
+      // text = constants.END_TEXT;
+      text = `${constants.END_TEXT}\n\n${this.getFormattedPoints()}`;
       
     } else {
       text = store.getState().data.textData[key];
@@ -237,6 +239,17 @@ export default class GameManager {
       return false;
     }
   }
+
+  // new method to fetch points
+  static getFormattedPoints() {
+    const { karma, intellect, love, power, darkTetrad } = store.getState().points;
+    return `
+    PREVENTION TACTICS: ${karma} -> Reflects the number of preventive actions taken to secure systems and data. \n\n                                                            
+    RESPONSE QUALLITY: ${intellect} ->  Measures the effectiveness of your actions in responding to security incidents. \n\n                                                            
+    TRUST AND RELATIONSHIPS: ${love} ->  Indicates how well you've managed relationships and built trust throughout the game. \n\n                                                            
+    DECISION IMPACT: ${power} ->  Shows the impact of your decisions on the game's outcome and company's state. \n\n                                                            
+    COMPLIANCE AND ETHICS: ${darkTetrad} ->  Evaluates your adherence to ethical practices and compliance with regulations. \n\n`;
+  }   
 
   // Write story node decision to gameLog.
   // Dispatch action using Redux.
